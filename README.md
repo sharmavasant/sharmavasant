@@ -7,13 +7,4 @@ You can click the Preview link to take a look at your changes.
 ### Find me on internet
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning 2nd year in MNNIT, Allahabad
-- 📫 How to reach me <a href="">Linkedin</a>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
-
-###
+- 📫 How to reach me <a href="https://www.linkedin.com/in/vasantsharma76/">Linkedin</a>
