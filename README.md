@@ -6,5 +6,5 @@ You can click the Preview link to take a look at your changes.
 # Hi, I'm Vasant 👋 <img src="https://github.com/sharmavasant/sharmavasant/blob/main/banner%20(1).png">
 ### Find me on internet
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning 3nd year in MNNIT, Allahabad
+- 🌱 I’m currently learning 3rd year in MNNIT, Allahabad
 - 📫 How to reach me <a href="https://www.linkedin.com/in/vasantsharma76/">Linkedin</a>
