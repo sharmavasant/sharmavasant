@@ -8,3 +8,4 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning 3rd year in MNNIT, Allahabad
 - 📫 How to reach me <a href="https://www.linkedin.com/in/vasantsharma76/">Linkedin</a>
+- ![](https://komarev.com/ghpvc/?username=sharmavasant)
