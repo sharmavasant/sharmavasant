@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h1 align="center">Hi, I'm Vasant 👋</h1>
 <h3 align="center">I am a full stack web developer and a problem solver.</h3>
+
 -----
 
 ### Find me on internet
