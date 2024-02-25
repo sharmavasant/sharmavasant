@@ -12,4 +12,10 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in problem solving and web development.
 - 🌱 I’m currently in 3rd year in Computer Science branch of NIT Allahabad.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/vasantsharma76/">Linkedin</a>
+- Email : [](mailto:sharmavasant6@gmail.com)
 - ![](https://komarev.com/ghpvc/?username=sharmavasant)
+
+-----
+<p align="center">
+Thanks for visiting 😎🤝
+</p>
